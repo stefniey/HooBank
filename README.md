@@ -1,7 +1,7 @@
-# SwiftBank Landing Page
+# HooBank Landing Page
 
 ## Overview
-SwiftBank Landing Page is a static website designed to showcase a modern banking solution with an emphasis on sleek design and responsiveness. This project highlights the use of React and Tailwind CSS to deliver a visually engaging and user-friendly interface.
+HooBank Landing Page is a static website designed to showcase a modern banking solution with an emphasis on sleek design and responsiveness. This project highlights the use of React and Tailwind CSS to deliver a visually engaging and user-friendly interface.
 
 ## Key Features
 - **Responsive Design**: Optimized for mobile, tablet, and desktop devices, providing a seamless experience across various screen sizes.
@@ -24,7 +24,7 @@ SwiftBank Landing Page is a static website designed to showcase a modern banking
 ## Project Structure
 Here's an overview of the folder structure:
 ```
-swiftbank-landing-page/
+HooBank/
 ├── src/
 │   ├── components/
 │   ├── assets/
@@ -40,8 +40,8 @@ swiftbank-landing-page/
 
 - **Clone the repository**:
   ```bash
-  git clone https://github.com/stefniey/swiftbank-landing-page.git
-  cd swiftbank-landing-page
+  git clone https://github.com/stefniey/HooBank.git
+  cd HooBank
   ```
 
 - **Install dependencies**:
